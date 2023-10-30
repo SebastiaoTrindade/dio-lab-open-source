@@ -1,6 +1,7 @@
 # SEBASTIÃO TRINDADE 
 
 💼 Olá, sou Sebastião Trindade atualmente trabalho como Supervisor Administrativo, porém meu foco é migrar para a área de tecnologia como desenvolvedor back-end utilizando a linguagem C#.
+
 👨‍🎓 Atualmente, continuo focado nos estudos, fazendo cursos e bootcamps. No ano 2021 me graduei no curso de Análise e Desenvolvimento de Sistemas pela FAEL.
 
 ### 📊 GitHub Analytics
